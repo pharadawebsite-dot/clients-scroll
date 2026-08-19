@@ -38,6 +38,10 @@ span {
   color: white;
 }
 
+img { 
+  padding-left:5px;
+  padding-right: 5px;
+
 @keyframes scrollText {
   from {
     transform: translateX(0%);
